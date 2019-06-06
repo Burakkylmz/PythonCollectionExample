@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCollectionExample.HelloPython", "PythonCollectionExample.HelloPython\PythonCollectionExample.HelloPython.pyproj", "{D0923DBC-D018-4624-94A1-1CE9F57C2F9E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCollectionExample.MathematicalOperations", "PythonCollectionExample.MathematicalOperations\PythonCollectionExample.MathematicalOperations.pyproj", "{1B7ECBFA-277E-4FEE-B931-8991AD6896C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0923DBC-D018-4624-94A1-1CE9F57C2F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0923DBC-D018-4624-94A1-1CE9F57C2F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7ECBFA-277E-4FEE-B931-8991AD6896C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7ECBFA-277E-4FEE-B931-8991AD6896C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12E60867-9032-43EF-8F4A-49419A03341A}
+	EndGlobalSection
+EndGlobal
