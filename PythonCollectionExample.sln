@@ -9,6 +9,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCollectionExample.Mat
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCollectionExample.FactorialCalculation", "PythonCollectionExample.FactorialCalculation\PythonCollectionExample.FactorialCalculation.pyproj", "{B2FE9DED-3707-4980-B07D-3D8FF3C88CDB}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCollectionExample.SecondOrderLinearEquations", "PythonCollectionExample.SecondOrderLinearEquations\PythonCollectionExample.SecondOrderLinearEquations.pyproj", "{1278CFA0-8C09-4CCC-91A3-E941697C994B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCollectionExample.RectangleCalculation", "PythonCollectionExample.RectangleCalculation\PythonCollectionExample.RectangleCalculation.pyproj", "{A8800B45-FD31-4585-84C6-523316B2C8E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,10 @@ Global
 		{1B7ECBFA-277E-4FEE-B931-8991AD6896C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2FE9DED-3707-4980-B07D-3D8FF3C88CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B2FE9DED-3707-4980-B07D-3D8FF3C88CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1278CFA0-8C09-4CCC-91A3-E941697C994B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1278CFA0-8C09-4CCC-91A3-E941697C994B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8800B45-FD31-4585-84C6-523316B2C8E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8800B45-FD31-4585-84C6-523316B2C8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
