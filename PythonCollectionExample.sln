@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCollectionExample.Hel
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCollectionExample.MathematicalOperations", "PythonCollectionExample.MathematicalOperations\PythonCollectionExample.MathematicalOperations.pyproj", "{1B7ECBFA-277E-4FEE-B931-8991AD6896C7}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCollectionExample.FactorialCalculation", "PythonCollectionExample.FactorialCalculation\PythonCollectionExample.FactorialCalculation.pyproj", "{B2FE9DED-3707-4980-B07D-3D8FF3C88CDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{D0923DBC-D018-4624-94A1-1CE9F57C2F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B7ECBFA-277E-4FEE-B931-8991AD6896C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1B7ECBFA-277E-4FEE-B931-8991AD6896C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FE9DED-3707-4980-B07D-3D8FF3C88CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FE9DED-3707-4980-B07D-3D8FF3C88CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
