@@ -17,6 +17,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCollectionExample.Num
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCollectionExample.PrimeNumber", "PythonCollectionExample.PrimeNumber\PythonCollectionExample.PrimeNumber.pyproj", "{92826C9B-A92C-45BD-A68B-2E9256A37EBA}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCollectionExample.SpeedControlAplication", "PythonCollectionExample.SpeedControlAplication\PythonCollectionExample.SpeedControlAplication.pyproj", "{C08B0CD0-5AB3-464D-A77D-044669DE3BD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,8 @@ Global
 		{CBF64D31-07D5-4A9E-AB01-B5844FFDB56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92826C9B-A92C-45BD-A68B-2E9256A37EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{92826C9B-A92C-45BD-A68B-2E9256A37EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08B0CD0-5AB3-464D-A77D-044669DE3BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08B0CD0-5AB3-464D-A77D-044669DE3BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
